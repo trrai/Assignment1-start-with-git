@@ -1,0 +1,19 @@
+Last login: Mon Jan  9 18:03:54 on ttys001
+D-10-157-110-128:~ tejveerrai$ pwd
+/Users/tejveerrai
+D-10-157-110-128:~ tejveerrai$ cd desktop/a1-start-with-git-trrai
+D-10-157-110-128:a1-start-with-git-trrai tejveerrai$ pwd
+/Users/tejveerrai/desktop/a1-start-with-git-trrai
+D-10-157-110-128:a1-start-with-git-trrai tejveerrai$ mkdir img
+D-10-157-110-128:a1-start-with-git-trrai tejveerrai$ cd ./img
+D-10-157-110-128:img tejveerrai$ ls
+D-10-157-110-128:img tejveerrai$ cp ../.gitignore .
+D-10-157-110-128:img tejveerrai$ ls -a
+.		..		.gitignore
+D-10-157-110-128:img tejveerrai$ 
+
+
+
+
+
+
