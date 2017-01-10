@@ -3,7 +3,7 @@
 The below questions should be answered regarding your assignment submission!
 
 ##### Did you receive help from any other sources (classmates, etc)? If so, please list who (be specific!). #####
-> Answer goes here!
+I did not receive any help on this assignment.
 
 
 ##### Approximately how many hours did it take you to complete this assignment? #####
@@ -16,4 +16,3 @@ The below questions should be answered regarding your assignment submission!
 
 ##### Did you encounter any problems in this assignment we should warn students about in the future? How can we make the assignment better? #####
 > Answer goes here!
-
