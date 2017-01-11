@@ -4,7 +4,7 @@ My goal for 2017 is to make the world a better place
 by spreading **happiness** and **joy** through acts
 of kindness and _improving_ people's days.
 
-![kindness image](/Users/tejveerrai/Desktop/info201/a1-start-with-git-trrai/img/kind.jpg)
+![kindness image](img/kind.jpg)
 
 |Task|Description|More Info|
 |--------|-------|------|
