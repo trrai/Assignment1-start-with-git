@@ -7,7 +7,7 @@ I did not receive any help on this assignment.
 
 
 ##### Approximately how many hours did it take you to complete this assignment? #####
-I took about 2 hours to complete this assignment.
+I took about 3 hours across two days to complete this assignment.
 
 
 ##### On a scale of 1 (too easy) to 10 (too challenging), how difficult was this assignment? #####
