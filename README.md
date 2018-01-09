@@ -1,6 +1,6 @@
 # My New Year's Resolution #
 
-My goal for 2017 is to make the world a better place
+My goal for 2018 is to make the world a better place
 by spreading **happiness** and **joy** through acts
 of kindness and _improving_ people's days.
 
